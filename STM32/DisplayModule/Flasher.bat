@@ -1,0 +1,1 @@
+start /B stfl -c --pn 12 --br 115200 --pr ODD -i STM32F2_512K -d --fn "C:\Projects\Netduino Go\nwazet-display-module\STM32\DisplayModule\Release\Exe\NwazetDisplayModule.bin" --a 0x08000000 --v --o -p --dwp

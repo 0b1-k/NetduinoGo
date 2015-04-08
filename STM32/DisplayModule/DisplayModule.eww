@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\DisplayModule.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>NwazetDisplayModule</name>
+      <member>
+        <project>DisplayModule</project>
+        <configuration>Debug</configuration>
+      </member>
+      <member>
+        <project>DisplayModule</project>
+        <configuration>Release</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

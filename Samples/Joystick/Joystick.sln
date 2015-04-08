@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joystick", "Joystick\Joystick.csproj", "{8837F05E-B48E-47E3-B7DD-B30DFF8C8F85}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C} = {FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nwazet.Go.Core", "..\..\Library\Nwazet.Go.Core\Nwazet.Go.Core\Nwazet.Go.Core.csproj", "{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoBus", "..\..\Secret Labs\Assemblies\GoBus\GoBus.csproj", "{C0F54A2B-0486-46E3-8F2E-D32E322A565E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretLabs.NETMF.Hardware.NetduinoGo", "..\..\Secret Labs\Assemblies\SecretLabs.NETMF.Hardware.NetduinoGo\SecretLabs.NETMF.Hardware.NetduinoGo.csproj", "{54886508-907A-4D1B-95AB-004305A226EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8837F05E-B48E-47E3-B7DD-B30DFF8C8F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8837F05E-B48E-47E3-B7DD-B30DFF8C8F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8837F05E-B48E-47E3-B7DD-B30DFF8C8F85}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8837F05E-B48E-47E3-B7DD-B30DFF8C8F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8837F05E-B48E-47E3-B7DD-B30DFF8C8F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8837F05E-B48E-47E3-B7DD-B30DFF8C8F85}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F54A2B-0486-46E3-8F2E-D32E322A565E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F54A2B-0486-46E3-8F2E-D32E322A565E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F54A2B-0486-46E3-8F2E-D32E322A565E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F54A2B-0486-46E3-8F2E-D32E322A565E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54886508-907A-4D1B-95AB-004305A226EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54886508-907A-4D1B-95AB-004305A226EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54886508-907A-4D1B-95AB-004305A226EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54886508-907A-4D1B-95AB-004305A226EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

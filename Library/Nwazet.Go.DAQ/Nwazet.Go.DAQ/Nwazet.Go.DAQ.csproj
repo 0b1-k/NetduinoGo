@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AssemblyName>Nwazet.Go.DAQ</AssemblyName>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Nwazet.Go.DAQ</RootNamespace>
+    <ProjectTypeGuids>{b69e3092-b931-443c-abe7-7e7b65f2a37f};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0BF3B799-1379-4BD5-84A2-B0469174FC06}</ProjectGuid>
+    <TargetFrameworkVersion>v4.2</TargetFrameworkVersion>
+    <NetMfTargetsBaseDir Condition="'$(NetMfTargetsBaseDir)'==''">$(MSBuildExtensionsPath32)\Microsoft\.NET Micro Framework\</NetMfTargetsBaseDir>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(NetMfTargetsBaseDir)$(TargetFrameworkVersion)\CSharp.Targets" />
+  <ItemGroup>
+    <Compile Include="AdcChannel.cs" />
+    <Compile Include="AdcSample.cs" />
+    <Compile Include="DaqUtility.cs" />
+    <Compile Include="DiskSpaceInfo.cs" />
+    <Compile Include="FatFsException.cs" />
+    <Compile Include="FileAttribute.cs" />
+    <Compile Include="FileInfo.cs" />
+    <Compile Include="FileSystem.cs" />
+    <Compile Include="Gpio.cs" />
+    <Compile Include="GpioAttributes.cs" />
+    <Compile Include="GpioInput.cs" />
+    <Compile Include="GpioInputInterrupt.cs" />
+    <Compile Include="GpioOutput.cs" />
+    <Compile Include="GpioOutputPwm.cs" />
+    <Compile Include="GpioTimeBase.cs" />
+    <Compile Include="I2C.cs" />
+    <Compile Include="I2cException.cs" />
+    <Compile Include="InterruptCounters.cs" />
+    <Compile Include="InterruptEvent.cs" />
+    <Compile Include="LedAttributes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="NwazetDAQ.cs" />
+    <Compile Include="RtcBackupRegisters.cs" />
+    <Compile Include="SystemConfig.cs" />
+    <Compile Include="SystemConfigOptions.cs" />
+    <Compile Include="TimeStamp.cs" />
+    <Compile Include="Usart.cs" />
+    <Compile Include="UsartBaudRates.cs" />
+    <Compile Include="UsartConfig.cs" />
+    <Compile Include="UsartDataBits.cs" />
+    <Compile Include="UsartException.cs" />
+    <Compile Include="UsartFlowControl.cs" />
+    <Compile Include="UsartParity.cs" />
+    <Compile Include="UsartReadResult.cs" />
+    <Compile Include="UsartStopBits.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="GoBus, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SPOT.Hardware" />
+    <Reference Include="Microsoft.SPOT.Native">
+    </Reference>
+    <Reference Include="System.IO" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Nwazet.Go.Core\Nwazet.Go.Core\Nwazet.Go.Core.csproj">
+      <Project>{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}</Project>
+      <Name>Nwazet.Go.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

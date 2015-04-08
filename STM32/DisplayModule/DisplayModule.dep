@@ -1,0 +1,2011 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2981812760</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\misc.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_adc.c</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\startup\iar\startup_stm32f2xx.s</file>
+      <file>$PROJ_DIR$\system_stm32f2xx.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_dma.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_flash.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_gpio.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_rcc.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_spi.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_syscfg.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\adc\adc.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\gpio\gpio.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\systick\systick.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\dialogues\alphanumeric.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\eeprom\eeprom.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusans9.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansbold9.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusanscondensed9.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmono8.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmonobold8.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana9.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana14.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdanabold14.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\hw\ILI9341.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\touchscreen.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\drawing.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\projectconfig.c</file>
+      <file>$PROJ_DIR$\..\..\Library\Nwazet.c</file>
+      <file>$PROJ_DIR$\GoBusModuleID.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\spi.c</file>
+      <file>$PROJ_DIR$\stm32f2xx_it.c</file>
+      <file>$PROJ_DIR$\VirtualCanvas.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\gpio\gpio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\verdana9.pbi</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_syscfg.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_dbgmcu.h</file>
+      <file>$PROJ_DIR$\stm32f2xx_it.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\lcd.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\eeprom\eeprom.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_iwdg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\touchscreen.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusansbold9.o</file>
+      <file>$PROJ_DIR$\stm32f2xx_conf.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\verdana14.o</file>
+      <file>$PROJ_DIR$\VirtualCanvas.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusansmono8.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\systick.pbi</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_cryp.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\STM32F2xx_StdPeriph_Lib_V1.0.0\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_wwdg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\systick.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_exti.o</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_exti.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\systick\systick.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_adc.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_gpio.h</file>
+      <file>$PROJ_DIR$\GoBusModuleID.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\spi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusansmono8.o</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana14.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\bitmapfonts.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f2xx.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\alphanumeric.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\GoBusModuleID.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\verdana14.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.pbi</file>
+      <file>$PROJ_DIR$\..\STM32F2xx_StdPeriph_Lib_V1.0.0\Libraries\STM32F2xx_StdPeriph_Driver\src\misc.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_gpio.o</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdanabold14.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_spi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_dma.pbi</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_hash.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_flash.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\stm32f2xx.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_crc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusans9.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\projectconfig.o</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_pwr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusansbold9.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\hw\ILI9341.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\adc\adc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\Library\Nwazet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\DisplayModule.bin</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusanscondensed9.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\verdanabold14.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_adc.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\drawing.pbi</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansbold9.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusans9.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_tim.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_dcmi.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\alphanumeric.pbi</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_rtc.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_spi.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_it.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f2xx.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\projectconfig.pbi</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_fsmc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_rcc.o</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_usart.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_dac.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\system_stm32f2xx.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusanscondensed9.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\drawing.o</file>
+      <file>$PROJ_DIR$\spi.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_can.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ILI9341.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_spi.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusansmonobold8.o</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_sdio.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ILI9341.pbi</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\colors.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Nwazet.pbi</file>
+      <file>$PROJ_DIR$\nwazetLogo.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_rcc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_stm32f2xx.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusanscondensed9.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\VirtualCanvas.o</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_i2c.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\dialogues\alphanumeric.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Nwazet.o</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusans9.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_rcc.pbi</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana9.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\spi.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\verdana9.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_dma.o</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\touchscreen.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_syscfg.pbi</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\misc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\GoBusModuleID.pbi</file>
+      <file>$PROJ_DIR$\DisplayModule.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.pbi</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\projectconfig.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_exti.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_syscfg.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\dejavusansmonobold8.pbi</file>
+      <file>$PROJ_DIR$\main.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\verdanabold14.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\touchscreen.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_dma.h</file>
+      <file>$PROJ_DIR$\..\STM32F2xx_StdPeriph_Lib_V1.0.0\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_syscfg.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_flash.o</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmonobold8.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\VirtualCanvas.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_it.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_adc.pbi</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_rng.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmono8.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f2xx_flash.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DisplayModule.pbd</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\drawing.h</file>
+      <file>$PROJ_DIR$\stm32f2xx_conf.h </file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 161</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 167</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 158 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 158 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 179</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\startup\iar\startup_stm32f2xx.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 141</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\system_stm32f2xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 154</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 173 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 64 130 85 53 124 39 111 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 173 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 64 130 85 53 124 39 111 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 64 130 85 53 124 39 111 173 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 64 130 85 53 124 39 111 173 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 184</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 175</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 83 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 65 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 144 43 88 140 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 122</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 140 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 180 113 134 114 37 110 123 57 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 114 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 37 110 123 57 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 114 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 37 110 123 57 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_syscfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 157</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 164</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 110 123 57 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37 84 169 152 72 55 117 58 119 172 98 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 110 123 57 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\core\adc\adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 156</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 96 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\core\gpio\gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\core\systick\systick.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\dialogues\alphanumeric.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 72 55 117 58 119 172 98 125 105 145 162 152 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 63 41 137 186 70 155 96 109</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 106 72 55 117 58 119 172 98 125 105 145 162 152 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 63 41 137 186 70 155 96 109</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\eeprom\eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 72 55 117 58 119 172 98 125 105 162 152 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 42</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 106 72 55 117 58 119 172 98 125 105 162 152 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusans9.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 148</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 109 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansbold9.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 91</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusanscondensed9.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 142</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 102 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmono8.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 181 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmonobold8.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 165</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 133</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 176 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana9.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 153</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 150 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 150 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana14.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdanabold14.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 170</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 103</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79 70 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\hw\ILI9341.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 136</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 131</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 41 137 63 34</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 95 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 41 137 63 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\touchscreen.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 171</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 155 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 96 34 63 42 41 137 186 70 109 92 183 97 106 125 105</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 155 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 96 34 63 42 41 137 186 70 109 92 183 97 106 125 105</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\drawing.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 128</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 72 55 117 58 119 172 98 125 105 186 162 152 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 41 137 70</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 106 72 55 117 58 119 172 98 125 105 186 162 152 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 41 137 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\projectconfig.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Library\Nwazet.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 138</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 146</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99 152 72 55 117 58 119 172 98 106 125 105</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99 152 72 55 117 58 119 172 98 106 125 105</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GoBusModuleID.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 159</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 106 72 55 117 58 119 172 98 125 105</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 106 72 55 117 58 119 172 98 125 105</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 118</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 166 63 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 34 129 95 41 137 48 155 96 186 70 79 139</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 166 63 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 34 129 95 41 137 48 155 96 186 70 79 139</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 151</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129 99 106 72 55 117 58 119 172 98 125 105 162 152 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 129 99 106 72 55 117 58 119 172 98 125 105 162 152 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 66</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\stm32f2xx_it.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 178</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 99 40</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\VirtualCanvas.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 177</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 143</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 99 186 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 187 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 41 137 70 155 96 145 109 108 102 181 176 69 150 79 95 129 106 125 105</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48 99 186 162 152 72 55 117 58 119 172 98 84 169 135 50 89 90 126 46 64 130 85 53 124 39 111 173 62 83 121 82 65 144 43 88 140 180 113 134 114 37 110 123 57 158 41 137 70 155 96 145 109 108 102 181 176 69 150 79 95 129 106 125 105</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\c.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 160 74 131 146 143 156 73 148 45 142 68 133 128 93 168 118 167 87 151 141 104 154 61 175 78 178 122 132 164 71 59 44 47 153 103 147 94 182 49</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\STM32F2xx_StdPeriph_Lib_V1.0.0\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 163</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\STM32F2xx_StdPeriph_Lib_V1.0.0\Libraries\STM32F2xx_StdPeriph_Driver\src\misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 161</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 167</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\STM32F2xx_StdPeriph_Lib_V1.0.0\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_syscfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 157</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 164</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\misc.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_adc.c</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\startup\iar\startup_stm32f2xx.s</file>
+      <file>$PROJ_DIR$\system_stm32f2xx.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_dma.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_flash.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_gpio.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_rcc.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_spi.c</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_syscfg.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\adc\adc.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\gpio\gpio.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\systick\systick.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\dialogues\alphanumeric.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\eeprom\eeprom.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusans9.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansbold9.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusanscondensed9.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmono8.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmonobold8.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana9.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana14.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdanabold14.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\hw\ILI9341.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\touchscreen.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\drawing.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\License.txt</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\projectconfig.c</file>
+      <file>$PROJ_DIR$\..\..\Library\Nwazet.c</file>
+      <file>$PROJ_DIR$\GoBusModuleID.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\spi.c</file>
+      <file>$PROJ_DIR$\stm32f2xx_it.c</file>
+      <file>$PROJ_DIR$\VirtualCanvas.c</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\gpio\gpio.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_syscfg.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_dbgmcu.h</file>
+      <file>$PROJ_DIR$\stm32f2xx_it.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\lcd.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\eeprom\eeprom.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_iwdg.h</file>
+      <file>$PROJ_DIR$\stm32f2xx_conf.h</file>
+      <file>$PROJ_DIR$\VirtualCanvas.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_cryp.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_wwdg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_exti.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\systick\systick.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_adc.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_gpio.h</file>
+      <file>$PROJ_DIR$\GoBusModuleID.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana14.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\bitmapfonts.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdanabold14.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_hash.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_flash.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\stm32f2xx.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_crc.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_pwr.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\hw\ILI9341.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\core\adc\adc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\Library\Nwazet.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusanscondensed9.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansbold9.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusans9.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_tim.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_dcmi.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_rtc.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_spi.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_fsmc.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_usart.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_dac.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\system_stm32f2xx.h</file>
+      <file>$PROJ_DIR$\spi.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_can.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_sdio.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\colors.h</file>
+      <file>$PROJ_DIR$\nwazetLogo.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_rcc.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_i2c.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\dialogues\alphanumeric.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana9.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\touchscreen.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\misc.h</file>
+      <file>$PROJ_DIR$\DisplayModule.icf</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\projectconfig.h</file>
+      <file>$PROJ_DIR$\main.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_dma.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmonobold8.h</file>
+      <file>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\inc\stm32f2xx_rng.h</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmono8.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusanscondensed9.o</file>
+      <file>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\drawing.h</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusans9.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\alphanumeric.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\GoBusModuleID.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_exti.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_spi.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusansmonobold8.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_adc.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\gpio.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_it.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\eeprom.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_rcc.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\VirtualCanvas.o</file>
+      <file>$PROJ_DIR$\Release\Obj\touchscreen.o</file>
+      <file>$PROJ_DIR$\Release\Obj\projectconfig.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusansmono8.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\verdana9.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_exti.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusansbold9.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_flash.o</file>
+      <file>$PROJ_DIR$\Release\Obj\alphanumeric.o</file>
+      <file>$PROJ_DIR$\Release\Obj\startup_stm32f2xx.o</file>
+      <file>$PROJ_DIR$\Release\Obj\systick.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_syscfg.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_dma.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_syscfg.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_gpio.o</file>
+      <file>$PROJ_DIR$\Release\Obj\system_stm32f2xx.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\GoBusModuleID.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\system_stm32f2xx.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_adc.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_spi.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_rcc.o</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_gpio.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusansmonobold8.o</file>
+      <file>$PROJ_DIR$\Release\Obj\verdana9.o</file>
+      <file>$PROJ_DIR$\Release\Obj\Nwazet.o</file>
+      <file>$PROJ_DIR$\Release\Obj\misc.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\touchscreen.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_dma.o</file>
+      <file>$PROJ_DIR$\Release\Obj\eeprom.o</file>
+      <file>$PROJ_DIR$\Release\Obj\gpio.o</file>
+      <file>$PROJ_DIR$\Release\Obj\ILI9341.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_flash.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\ILI9341.o</file>
+      <file>$PROJ_DIR$\Release\Obj\verdana14.pbi</file>
+      <file>$PROJ_DIR$\Release\Exe\NwazetDisplayModule.bin</file>
+      <file>$PROJ_DIR$\Release\Obj\VirtualCanvas.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\DisplayModule.pbd</file>
+      <file>$PROJ_DIR$\Release\Obj\verdanabold14.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusansmono8.o</file>
+      <file>$PROJ_DIR$\Release\Obj\spi.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusans9.o</file>
+      <file>$PROJ_DIR$\Release\Obj\adc.o</file>
+      <file>$PROJ_DIR$\Release\Obj\Nwazet.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\stm32f2xx_it.o</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusansbold9.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\verdanabold14.o</file>
+      <file>$PROJ_DIR$\Release\Obj\dejavusanscondensed9.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\misc.o</file>
+      <file>$PROJ_DIR$\Release\Obj\projectconfig.o</file>
+      <file>$PROJ_DIR$\Release\Obj\adc.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\spi.o</file>
+      <file>$PROJ_DIR$\Release\Obj\drawing.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\systick.o</file>
+      <file>$PROJ_DIR$\Release\Exe\c.out</file>
+      <file>$PROJ_DIR$\Release\Obj\drawing.o</file>
+      <file>$PROJ_DIR$\Release\Obj\verdana14.o</file>
+      <file>$PROJ_DIR$\Release\Obj\main.o</file>
+      <file>$PROJ_DIR$\stm32f2xx_conf.h </file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 153</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 175</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 102 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 146</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F2xx\startup\iar\startup_stm32f2xx.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 136</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\system_stm32f2xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 142</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 145</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 139</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 155</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 52 90 62 46 86 37 79 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 52 90 62 46 86 37 79 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_exti.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 132</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 119</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 52 90 62 46 86 37 79 108 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 52 90 62 46 86 37 79 108 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 159</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 134</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 181</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 141</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 96 41 63 95 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 148</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 95 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 110 80 91 81 36 78 85 48 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 147</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 36 78 85 48 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 81 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 36 78 85 48 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\STM32F2xx_StdPeriph_Driver\src\stm32f2xx_syscfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 138</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 140</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 78 85 48 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36 61 106 100 57 47 82 49 83 107 71 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 78 85 48 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\core\adc\adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 177</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 169</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\core\gpio\gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 157</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\core\systick\systick.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 137</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 180</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\dialogues\alphanumeric.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 117</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 135</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 57 47 82 49 83 107 71 87 74 97 104 100 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 51 39 93 115 56 101 69 77</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75 57 47 82 49 83 107 71 87 74 97 104 100 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 51 39 93 115 56 101 69 77</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\eeprom\eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 156</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 57 47 82 49 83 107 71 87 74 104 100 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75 57 47 82 49 83 107 71 87 74 104 100 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 40</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusans9.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansbold9.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 172</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 133</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusanscondensed9.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 174</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 114</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 73 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmono8.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 166</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 111 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\dejavusansmonobold8.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 121</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 150</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 109 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana9.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 151</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdana14.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 161</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\fonts\verdanabold14.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 165</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 173</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58 56 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\hw\ILI9341.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 160</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 39 93 51 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 39 93 51 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\touchscreen.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 154</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 128</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 69 35 51 40 39 93 115 56 77 66 113 70 75 87 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 101 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 69 35 51 40 39 93 115 56 77 66 113 70 75 87 74</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\drivers\lcd\tft\drawing.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 179</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 182</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 57 47 82 49 83 107 71 87 74 115 104 100 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 39 93 56</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75 57 47 82 49 83 107 71 87 74 115 104 100 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 39 93 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Microbuilder\projectconfig.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Library\Nwazet.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 170</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 152</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72 100 57 47 82 49 83 107 71 75 87 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72 100 57 47 82 49 83 107 71 75 87 74</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GoBusModuleID.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 144</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 118</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 75 57 47 82 49 83 107 71 87 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54 75 57 47 82 49 83 107 71 87 74</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 184</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105 51 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 35 89 68 39 93 43 101 69 115 56 58 94</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 105 51 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 35 89 68 39 93 43 101 69 115 56 58 94</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 167</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 178</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89 72 75 57 47 82 49 83 107 71 87 74 104 100 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 89 72 75 57 47 82 49 83 107 71 87 74 104 100 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\stm32f2xx_it.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 124</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 171</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 72 38</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\VirtualCanvas.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 127</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 72 115 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 185 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 39 93 56 101 69 97 77 76 73 111 109 55 99 58 68 89 75 87 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43 72 115 104 100 57 47 82 49 83 107 71 61 106 92 45 64 65 88 42 52 90 62 46 86 37 79 108 50 60 84 59 53 96 41 63 95 110 80 91 81 36 78 85 48 102 39 93 56 101 69 97 77 76 73 111 109 55 99 58 68 89 75 87 74</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\c.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 162</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 103 118 160 152 127 169 135 168 133 114 166 150 182 156 157 184 175 176 178 136 146 155 119 134 141 171 148 147 140 145 180 128 183 151 173 98 67 112 44</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+

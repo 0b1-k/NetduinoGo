@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialLib", "SerialLib\SerialLib.csproj", "{1065D12C-E9AB-4911-9180-F48255FE98CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialLibTest", "SerialLibTest\SerialLibTest.csproj", "{AB8100F3-0A75-4CEE-9B98-490D03CB79E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdafruitMax6675", "..\adafruitMAX6675\AdafruitMax6675\AdafruitMax6675.csproj", "{9E6A8D2A-D8F8-493B-95E9-D897519B59F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1065D12C-E9AB-4911-9180-F48255FE98CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1065D12C-E9AB-4911-9180-F48255FE98CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1065D12C-E9AB-4911-9180-F48255FE98CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1065D12C-E9AB-4911-9180-F48255FE98CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8100F3-0A75-4CEE-9B98-490D03CB79E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8100F3-0A75-4CEE-9B98-490D03CB79E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8100F3-0A75-4CEE-9B98-490D03CB79E4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AB8100F3-0A75-4CEE-9B98-490D03CB79E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8100F3-0A75-4CEE-9B98-490D03CB79E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8100F3-0A75-4CEE-9B98-490D03CB79E4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9E6A8D2A-D8F8-493B-95E9-D897519B59F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6A8D2A-D8F8-493B-95E9-D897519B59F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6A8D2A-D8F8-493B-95E9-D897519B59F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6A8D2A-D8F8-493B-95E9-D897519B59F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

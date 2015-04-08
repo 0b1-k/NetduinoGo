@@ -1,0 +1,13 @@
+#ifndef _SYSTICK_H_
+  #define _SYSTICK_H_
+
+#include "projectconfig.h"
+
+void      systickInit(void);
+void      delay(uint32_t t);
+void      systickDelay (uint32_t delayTicks);
+uint32_t  systickGetTicks();
+
+void      OnSystickInterrupt(void);
+
+#endif

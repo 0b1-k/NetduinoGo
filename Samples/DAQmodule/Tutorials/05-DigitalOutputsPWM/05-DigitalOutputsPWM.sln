@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-DigitalOutputsPWM", "05-DigitalOutputsPWM.csproj", "{14360D03-E7D3-409D-A084-560873F17F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14360D03-E7D3-409D-A084-560873F17F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14360D03-E7D3-409D-A084-560873F17F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14360D03-E7D3-409D-A084-560873F17F23}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{14360D03-E7D3-409D-A084-560873F17F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14360D03-E7D3-409D-A084-560873F17F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14360D03-E7D3-409D-A084-560873F17F23}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

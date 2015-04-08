@@ -1,0 +1,84 @@
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\le\07-DigitalInputInterrupts.exe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\be\07-DigitalInputInterrupts.exe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\le\07-DigitalInputInterrupts.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\be\07-DigitalInputInterrupts.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\07-DigitalInputInterrupts.exe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\07-DigitalInputInterrupts.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\le\07-DigitalInputInterrupts.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\le\07-DigitalInputInterrupts.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\be\07-DigitalInputInterrupts.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\be\07-DigitalInputInterrupts.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\GoBus.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\Nwazet.Go.Core.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\Nwazet.Go.DAQ.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\GoBus.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\Nwazet.Go.Core.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\Nwazet.Go.DAQ.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\GoBus.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\Nwazet.Go.Core.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\Nwazet.Go.DAQ.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\GoBus.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\Nwazet.Go.Core.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\Nwazet.Go.DAQ.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\GoBus.dll
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\Nwazet.Go.Core.dll
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\Nwazet.Go.DAQ.dll
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.dll
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\Nwazet.Go.Core.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\Nwazet.Go.DAQ.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\GoBus.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\07-DigitalInputInterrupts.exe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\07-DigitalInputInterrupts.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\be\07-DigitalInputInterrupts.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\be\07-DigitalInputInterrupts.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\le\07-DigitalInputInterrupts.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\le\07-DigitalInputInterrupts.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\le\07-DigitalInputInterrupts.exe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\be\07-DigitalInputInterrupts.exe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\le\07-DigitalInputInterrupts.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\be\07-DigitalInputInterrupts.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\07-DigitalInputInterrupts.exe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\07-DigitalInputInterrupts.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\le\07-DigitalInputInterrupts.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\le\07-DigitalInputInterrupts.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\be\07-DigitalInputInterrupts.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\be\07-DigitalInputInterrupts.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\GoBus.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\Nwazet.Go.Core.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\Nwazet.Go.DAQ.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\GoBus.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\Nwazet.Go.Core.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\Nwazet.Go.DAQ.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\GoBus.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\Nwazet.Go.Core.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\Nwazet.Go.DAQ.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\GoBus.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\Nwazet.Go.Core.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\Nwazet.Go.DAQ.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\GoBus.dll
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\Nwazet.Go.Core.dll
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\Nwazet.Go.DAQ.dll
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.dll
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\Nwazet.Go.Core.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\Nwazet.Go.DAQ.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\bin\Debug\GoBus.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\be\07-DigitalInputInterrupts.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\be\07-DigitalInputInterrupts.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\le\07-DigitalInputInterrupts.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\le\07-DigitalInputInterrupts.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\07-DigitalInputInterrupts.exe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\07-DigitalInputInterrupts\obj\Debug\07-DigitalInputInterrupts.pdb

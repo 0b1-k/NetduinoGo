@@ -1,0 +1,80 @@
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\le\02-AnalogInputs.exe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\be\02-AnalogInputs.exe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\le\02-AnalogInputs.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\be\02-AnalogInputs.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\02-AnalogInputs.exe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\02-AnalogInputs.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\le\02-AnalogInputs.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\le\02-AnalogInputs.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\be\02-AnalogInputs.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\be\02-AnalogInputs.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\GoBus.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\Nwazet.Go.Core.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\Nwazet.Go.DAQ.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\GoBus.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\Nwazet.Go.Core.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\Nwazet.Go.DAQ.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\GoBus.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\Nwazet.Go.Core.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\Nwazet.Go.DAQ.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\GoBus.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\Nwazet.Go.Core.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\Nwazet.Go.DAQ.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\GoBus.dll
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\Nwazet.Go.Core.dll
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\Nwazet.Go.DAQ.dll
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.dll
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\Nwazet.Go.Core.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\Nwazet.Go.DAQ.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\GoBus.pdb
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\02-AnalogInputs.exe
+C:\Projects\GO!\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\02-AnalogInputs.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\le\02-AnalogInputs.exe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\be\02-AnalogInputs.exe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\le\02-AnalogInputs.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\be\02-AnalogInputs.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\02-AnalogInputs.exe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\02-AnalogInputs.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\le\02-AnalogInputs.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\le\02-AnalogInputs.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\be\02-AnalogInputs.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\be\02-AnalogInputs.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\GoBus.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\Nwazet.Go.Core.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\Nwazet.Go.DAQ.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\GoBus.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\Nwazet.Go.Core.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\Nwazet.Go.DAQ.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\GoBus.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\Nwazet.Go.Core.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\Nwazet.Go.DAQ.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\GoBus.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\Nwazet.Go.Core.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\Nwazet.Go.DAQ.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\GoBus.dll
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\Nwazet.Go.Core.dll
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\Nwazet.Go.DAQ.dll
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.dll
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\Nwazet.Go.Core.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\Nwazet.Go.DAQ.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\bin\Debug\GoBus.pdb
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\be\02-AnalogInputs.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\be\02-AnalogInputs.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\le\02-AnalogInputs.pe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\le\02-AnalogInputs.pdbx
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\02-AnalogInputs.exe
+C:\Projects\GO! Dev\Samples\DAQmodule\Tutorials\02-AnalogInputs\obj\Debug\02-AnalogInputs.pdb

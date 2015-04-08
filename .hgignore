@@ -1,0 +1,10 @@
+syntax: glob
+obj
+bin
+*_ReSharper.*
+*.orig
+*.suo
+*.ptvs*
+.hgignore~
+*.pyc
+*.sh~
